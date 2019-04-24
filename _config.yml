@@ -33,7 +33,7 @@ navbar-links:
     - Getting started: "getstarted"
     - Other sites that use this template: "featured-users"
     - External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
-  Example pages:
+  Visualizations:
     - Example of a Markdown page: "md-example"
     - Example of an HTML page: "html-example"
   About me: "https://www.linkedin.com/in/manoah-farmer-42209aa4/"
