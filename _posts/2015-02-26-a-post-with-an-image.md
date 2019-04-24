@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Visualizing Disproportionality
-subtitle: Subtitle goes here
 bigimg: /img/path.jpg
 ---
 
