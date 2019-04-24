@@ -17,10 +17,6 @@ bigimg: /img/path.jpg
 	  </h3>
 	  {% endif %}  
     </a>
-
-    <p class="post-meta">
-      Posted on {{ post.date | date: "%B %-d, %Y" }}
-    </p>
   
     <div class="post-entry">
       {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
