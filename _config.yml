@@ -9,16 +9,16 @@
 
 # If you are building a GitHub project page then use these settings:
 # Replace with your project's URL!
-url: "http://kerchner.github.io/beautiful-project"
-baseurl: "/beautiful-project"
+url: "http://kerchner.github.io/mfarmer11/Capstone-2019"
+baseurl: "/mfarmerr11/Capstone-2019"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My Data Science Project
+title: Disproportionality in Discipline: Evansville Vanderburgh County School Corporation
 
 # Short description of your site
-description: Here's the description of my porject
+description: This is a project was completed to display potential uses of Data Mining and Machine Learning to suggest recruitment into programs meant to oppose the school-to-prison pipeline.
 
 # --- Navigation bar options --- #
 
