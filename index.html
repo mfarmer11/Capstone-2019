@@ -8,7 +8,7 @@ bigimg: /img/STPP.png
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
+<!--    <a href="{{ post.url | prepend: site.baseurl }}">-->
 	  <h2 class="post-title">{{ post.title }}</h2>
 	
 	  {% if post.subtitle %}
@@ -16,7 +16,7 @@ bigimg: /img/STPP.png
 	    {{ post.subtitle }}
 	  </h3>
 	  {% endif %}  
-    </a>
+<!--    </a>-->
   
     <div class="post-entry">
       {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
