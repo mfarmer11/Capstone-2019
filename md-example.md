@@ -7,7 +7,7 @@ bigimg: /img/VisB.jpeg
 
 ## Distribution of Disciplinary Action across Schools:
 
-![GW Data Science logo](/img/gwdsp.png)
+![GW Data Science logo](/img/treemapSchool_Name.png)
 
 ## How about a link?
 
