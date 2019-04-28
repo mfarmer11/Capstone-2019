@@ -2,7 +2,7 @@
 layout: page
 title: Data Visualizations
 subtitle: Evansville Vanderburg County School Corporation Disciplinary Data
-bigimg: /img/VisB.jpg
+bigimg: /img/VisB.jpeg
 ---
 
 ## Here is where we can insert an image:
