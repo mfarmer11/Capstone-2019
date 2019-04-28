@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Markdown-based page example
-subtitle: Subtitle goes here
+title: Data Visualizations
+subtitle: Evansville Vanderburg County School Corporation Disciplinary Data
 bigimg: /img/VisB.jpg
 ---
 
