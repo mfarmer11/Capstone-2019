@@ -27,13 +27,6 @@ bigimg: /img/VisB.jpeg
 
 ### Disciplinary Action by Primary Exceptionality
 <p float="left">
-  <img src="../img/vBarPrimary_ExcepitionalityvsDisciplinary_Action.png" width="600" class="inline"/>
+  <img src="../img/vBarPrimary_ExcepitionalityvsDisciplinary_Action.png" width="500" class="inline"/>
   <img src="../img/vBarGendervsDisciplinary_Action.png" width="300" class="inline"/>
 </p>
-
-
-
-We can do it with a line of markdown that looks like this (without the slashes - I haven't solved that problem just yet...):
-```
-\{\% include jupyter-basic_bar.html \%\}
-```
