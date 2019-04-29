@@ -22,7 +22,7 @@ bigimg: /img/VisB.jpeg
 ### Disiplinary Action by Grade and Gender
 <p float="left">
   <img src="../img/vBarGradevsDisciplinary_Action.png" width="400" class="inline"/>
-  <img src="../img/vBarGendervsDisciplinary_Action.png" width="300" height="400" class="inline"/> 
+  <img src="../img/vBarGendervsDisciplinary_Action.png" width="300" height="300" class="inline"/> 
 </p>
 
 ### Disciplinary Action by Primary Exceptionality
