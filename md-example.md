@@ -28,6 +28,5 @@ bigimg: /img/VisB.jpeg
 ### Disciplinary Action by Primary Exceptionality
 <img src="../img/vBarPrimary_ExceptionalityvsDisciplinary_Action.png" width="600" class="inline"/>
 
-### 
-<img src="../img/hBarGendervsDisciplinary_Action.png" width="300" class="inline"/>
-</p>
+### Distribution of Arrest Reasons
+<img src="../img/hBarArrest_Reason.png" width="600" class="inline"/>
