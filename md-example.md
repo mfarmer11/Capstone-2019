@@ -8,26 +8,22 @@ bigimg: /img/VisB.jpeg
 ### Distribution of Disciplinary Action across Schools:
 
 <img src="../img/treemapSchool_Name.png" width="600" height="400" class="inline">
-<img src="../img/histSchool_Name.png" width="600" hegith="400" class="inline">
+<img src="../img/histSchool_Name.png" width="600" hegith="300" class="inline">
 <!--![treemap](/img/treemapSchool_Name.png)-->
 
-### How about a link?
+###     Ethnicity      Free Lunch Status?
 
 <p float="left">
   <img src="../img/pieEthnicity.png" width="300" class="inline"/>
   <img src="../img/pieFRL.png" width="300" class="inline"/> 
 </p>
-And of course some text, and maybe [a link to https://datasci.columbian.gwu.edu/](https://datasci.columbian.gwu.edu/)
 
-## Or some code?
 
-Some code might go here:
+### Disiplinary Action by Grade and Gender
 
-```
-x <- 5 # Here's some R code
-```
+<img src="../img/vBarGradevsDisciplinary_Action.png" width="600" height="400" class="inline"/>
+<img src="../img/vBarGendervsDisciplinary_Action.png" width="300" class="inline"/> 
 
-What if I just paste the HTML for a plotly plot?
 
 We can do it with a line of markdown that looks like this (without the slashes - I haven't solved that problem just yet...):
 ```
