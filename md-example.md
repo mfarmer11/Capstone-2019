@@ -6,10 +6,14 @@ bigimg: /img/VisB.jpeg
 ---
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Distribution of Disciplinary Action across School:
 =======
 ## Distribution of Disciplinary Action across Schools:
 >>>>>>> gh-pages
+=======
+## Distribution of Disciplinary Action across Schools:
+>>>>>>> 513f5ea572b28986856fdb1588922ba34a8dfaf4
 
 
 ## How about a link?
