@@ -26,7 +26,8 @@ bigimg: /img/VisB.jpeg
 </p>
 
 ### Disciplinary Action by Primary Exceptionality
-<p float="left">
-  <img src="../img/vBarPrimary_ExceptionalityvsDisciplinary_Action.png" width="400" class="inline"/>
-  <img src="../img/vBarGendervsDisciplinary_Action.png" width="300" class="inline"/>
+<img src="../img/vBarPrimary_ExceptionalityvsDisciplinary_Action.png" width="600" class="inline"/>
+
+### 
+<img src="../img/hBarGendervsDisciplinary_Action.png" width="300" class="inline"/>
 </p>
