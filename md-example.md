@@ -14,8 +14,8 @@ bigimg: /img/VisB.jpeg
 ### How about a link?
 
 <p float="left">
-  <img src="../img/pieEthnicity.png" width="500" />
-  <img src="../img/pieFRL.png" width="500" /> 
+  <img src="../img/pieEthnicity.png" width="300" class="inline"/>
+  <img src="../img/pieFRL.png" width="300" class="inline"/> 
 </p>
 And of course some text, and maybe [a link to https://datasci.columbian.gwu.edu/](https://datasci.columbian.gwu.edu/)
 
