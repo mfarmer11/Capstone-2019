@@ -5,7 +5,11 @@ subtitle: Evansville Vanderburg County School Corporation Disciplinary Data
 bigimg: /img/VisB.jpeg
 ---
 
+<<<<<<< HEAD
 ## Distribution of Disciplinary Action across School:
+=======
+## Distribution of Disciplinary Action across Schools:
+>>>>>>> gh-pages
 
 
 ## How about a link?
