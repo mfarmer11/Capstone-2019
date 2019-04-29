@@ -7,7 +7,8 @@ bigimg: /img/VisB.jpeg
 
 ## Distribution of Disciplinary Action across Schools:
 
-![treemap](/img/treemapSchool_Name.png)
+<img src="/img/treemapSchool_Name.png" width="400" height="300">
+<!--![treemap](/img/treemapSchool_Name.png)-->
 
 ## How about a link?
 
