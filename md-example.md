@@ -5,13 +5,18 @@ subtitle: Evansville Vanderburg County School Corporation Disciplinary Data
 bigimg: /img/VisB.jpeg
 ---
 
-## Distribution of Disciplinary Action across Schools:
+### Distribution of Disciplinary Action across Schools:
 
 <img src="../img/treemapSchool_Name.png" width="600" height="400" class="inline">
+<img src="../img/histSchool_Name.png" width="600" hegith="400" class="inline">
 <!--![treemap](/img/treemapSchool_Name.png)-->
 
-## How about a link?
+### How about a link?
 
+<p float="left">
+  <img src="../img/pieEthnicity.png" width="500" />
+  <img src="../img/pieFRL.png" width="500" /> 
+</p>
 And of course some text, and maybe [a link to https://datasci.columbian.gwu.edu/](https://datasci.columbian.gwu.edu/)
 
 ## Or some code?
