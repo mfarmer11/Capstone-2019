@@ -21,12 +21,15 @@ bigimg: /img/VisB.jpeg
 
 ### Disiplinary Action by Grade and Gender
 <p float="left">
-  <img src="../img/vBarGradevsDisciplinary_Action.png" width="500" height="250" class="inline"/>
-  <img src="../img/vBarGendervsDisciplinary_Action.png" width="300" height="250" class="inline"/> 
+  <img src="../img/vBarGradevsDisciplinary_Action.png" width="400" class="inline"/>
+  <img src="../img/vBarGendervsDisciplinary_Action.png" width="300" class="inline"/> 
 </p>
+
+### Disciplinary Action by Primary Exceptionality
+<img src="../img/vBarPrimary_ExcepitionalityvsDisciplinary_Action.png" width="600" class="inline"/>
+<img src="../img/vBarGendervsDisciplinary_Action.png" width="300" class="inline"/>
 
 We can do it with a line of markdown that looks like this (without the slashes - I haven't solved that problem just yet...):
 ```
 \{\% include jupyter-basic_bar.html \%\}
 ```
-{% include jupyter-basic_bar.html %}
