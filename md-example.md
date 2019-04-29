@@ -21,8 +21,8 @@ bigimg: /img/VisB.jpeg
 
 ### Disiplinary Action by Grade and Gender
 <p float="left">
-  <img src="../img/vBarGradevsDisciplinary_Action.png" width="450" height="250" class="inline"/>
-  <img src="../img/vBarGendervsDisciplinary_Action.png" width="450" height="250" class="inline"/> 
+  <img src="../img/vBarGradevsDisciplinary_Action.png" width="500" height="250" class="inline"/>
+  <img src="../img/vBarGendervsDisciplinary_Action.png" width="300" height="250" class="inline"/> 
 </p>
 
 We can do it with a line of markdown that looks like this (without the slashes - I haven't solved that problem just yet...):
