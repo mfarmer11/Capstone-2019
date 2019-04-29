@@ -11,7 +11,7 @@ bigimg: /img/VisB.jpeg
 <img src="../img/histSchool_Name.png" width="600" hegith="300" class="inline">
 <!--![treemap](/img/treemapSchool_Name.png)-->
 
-###     Ethnicity      Free Lunch Status?
+### Disiplinary Action by Ethnicity and Free Lunch Status?
 
 <p float="left">
   <img src="../img/pieEthnicity.png" width="300" class="inline"/>
@@ -21,8 +21,8 @@ bigimg: /img/VisB.jpeg
 
 ### Disiplinary Action by Grade and Gender
 
-<img src="../img/vBarGradevsDisciplinary_Action.png" width="600" height="400" class="inline"/>
-<img src="../img/vBarGendervsDisciplinary_Action.png" width="300" class="inline"/> 
+<img src="../img/vBarGradevsDisciplinary_Action.png" width="800" height="400" class="inline"/>
+<img src="../img/vBarGendervsDisciplinary_Action.png" width="800" height="400" class="inline"/> 
 
 
 We can do it with a line of markdown that looks like this (without the slashes - I haven't solved that problem just yet...):
