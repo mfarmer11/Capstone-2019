@@ -13,11 +13,11 @@ bigimg: /img/VisB.jpeg
 
 <style>
   #scaled-frame { width: 1200px; height: 900px; border: 0px; }
-  #scaled-frame {zoom: 0.75;
+  #scaled-frame {zoom: 1;
   -moz-transform: scale(0.5);
   -moz-transform-origin: 0 0;
   -o-transform: scale(0.5);
   -o-transform-origin: 0 0;
-  -webkit-transform: scale(1);
+  -webkit-transform: scale(0.5);
   -webkit-transform-origin: 0 0;}
 </style>
