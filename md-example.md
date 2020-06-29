@@ -16,8 +16,8 @@ bigimg: /img/VisB.jpeg
   #scaled-frame {zoom: 0.5;
   -moz-transform: scale(0.71);
   -moz-transform-origin: 0 0;
-  -o-transform: scale(0.5);
+  -o-transform: scale(1);
   -o-transform-origin: 0 0;
-  -webkit-transform: scale(0.5);
+  -webkit-transform: scale(1);
   -webkit-transform-origin: 0 0;}
 </style>
