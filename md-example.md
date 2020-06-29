@@ -4,9 +4,19 @@ title: Data Visualizations
 subtitle: Evansville Vanderburg County School Corporation Disciplinary Data
 bigimg: /img/VisB.jpeg
 ---
+  
+<iframe id="scaled-frame" width="1000" height="800" scrolling="auto" align="center" frameborder="0" src="../img/Dashboard_1.png"> </iframe>
+<iframe id="scaled-frame" width="1000" height="800" scrolling="auto" align="center" frameborder="0" src="../img/Dashboard_2.png"> </iframe>
+<iframe id="scaled-frame" width="1000" height="800" scrolling="auto" align="center" frameborder="0" src="../img/Dashboard_3.png"> </iframe>
+<iframe id="scaled-frame" width="1000" height="800" scrolling="auto" align="center" frameborder="0" src="../img/Dashboard_4.png"> </iframe>
+<iframe id="scaled-frame" width="1000" height="800" scrolling="auto" align="center" frameborder="0" src="../img/Dashboard_5.png"> </iframe>
 
-<iframe width="1000" height="800" scrolling="no" frameborder="0" src="../img/Dashboard_1.png"> </iframe>
-<iframe width="1000" height="800" scrolling="no" frameborder="0" src="../img/Dashboard_2.png"> </iframe>
-<iframe width="1000" height="800" scrolling="no" frameborder="0" src="../img/Dashboard_3.png"> </iframe>
-<iframe width="1000" height="800" scrolling="no" frameborder="0" src="../img/Dashboard_4.png"> </iframe>
-<iframe width="1000" height="800" scrolling="no" frameborder="0" src="../img/Dashboard_5.png"> </iframe>
+<style>
+  #scaled-frame {zoom: 0.71;
+  -moz-transform: scale(0.71);
+  -moz-transform-origin: 0 0;
+  -o-transform: scale(0.71);
+  -o-transform-origin: 0 0;
+  -webkit-transform: scale(0.71);
+  -webkit-transform-origin: 0 0;}
+</style>
